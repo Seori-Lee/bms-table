@@ -169,6 +169,8 @@ const tableData = {
       }
     } else if (row.name_pack) {
       artistStr += `<br />(${row.name_pack})`;
+    } else {
+      artistStr = row.artist;
     }
     return artistStr;
   },
