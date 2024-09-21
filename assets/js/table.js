@@ -180,17 +180,17 @@ const tableData = {
       return "";
     }
   },
-
+  
   tableChart: function (data, type, row) {
     if (row.url) {
       if (data) {
         return `<a href='${row.url}' target='_blank'>${data}</a>`;
       } else {
-        return `<a href='${row.urldiff}'>DL</a>`;
+        return `<a href='${row.url}'>DL</a>`;
       }
     } else {
       if (data) {
-        return `<a href='${row.url}'>DL</a>`;
+        return data;
       } else {
         if (languagePrefix === "ko") {
           return "동봉";
