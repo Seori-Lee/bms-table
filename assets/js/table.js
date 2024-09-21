@@ -231,13 +231,13 @@ const DEFAULT_COLUMNS = [
     render: tableData.tableMovie,
   },
   {
-    title: "Title<br />(LR2IR)",
+    title: "Title",
     width: "30%",
     data: "title",
     render: tableData.tableTitle,
   },
   {
-    title: "Artist<br />(BMS DL)",
+    title: "Artist",
     width: "25%",
     data: "artist",
     render: tableData.tableArtist,
@@ -245,14 +245,14 @@ const DEFAULT_COLUMNS = [
   {
     title: "DL",
     width: "1%",
-    data: "name_diff",
+    data: "url_diff",
     className: "text-nowrap",
     render: tableData.tableChart,
   },
   {
     title: "Date",
     width: "1%",
-    data: "date",
+    data: "adddate",
     className: "text-nowrap",
     render: tableData.tableDate,
   },
