@@ -234,13 +234,13 @@ const DEFAULT_COLUMNS = [
     data: "artist",
     render: tableData.tableArtist,
   },
-  {
+  /* {
     title: "DL",
     width: "1%",
     data: "url_diff",
     className: "text-nowrap",
     render: tableData.tableChart,
-  },
+  }, */
   {
     title: "Date",
     width: "1%",
