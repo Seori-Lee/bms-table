@@ -188,6 +188,12 @@ const tableData = {
       } else {
         return `<a href='${row.url_diff}'>DL</a>`;
       }
+    } else if (row.url) {
+      if (data) {
+        return `<a href='${row.url}' target='_blank'>${data}</a>`;
+      } else {
+        return `<a href='${row.url}'>DL</a>`;
+      }
     } else {
       if (data) {
         return data;
