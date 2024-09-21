@@ -167,7 +167,7 @@ const tableData = {
       if (row.name_pack) {
         artistStr += `<br />(<a href='${row.url_pack}' target='_blank'>${row.name_pack}</a>)`;
       } else {
-        artistStr += `<br />(<a href='${row.url_pack}' target='_blank'>${row.url_pack}</a>)`;
+        artistStr += `<br />(<a href='${row.url_diff}' target='_blank'>${row.url_diff}</a>)`;
       }
     } else if (row.name_pack) {
       artistStr += `<br />(${row.name_pack})`;
@@ -188,7 +188,7 @@ const tableData = {
       if (data) {
         return `<a href='${row.url}' target='_blank'>${data}</a>`;
       } else {
-        return `<a href='${row.url}'>DL</a>`;
+        return `<a href='${row.url_diff}'>DL</a>`;
       }
     } else {
       if (data) {
