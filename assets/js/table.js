@@ -160,8 +160,8 @@ const tableData = {
     let artistStr = "";
     if (row.url) {
       artistStr = `<a href='${row.url}' target='_blank'>${data || row.url}</a>`;
-    } else if (row.url_diff) {
-      artistStr = `<a href='${row.url_diff}' target='_blank'>${data || row.url_diff}</a>`;
+    } else if (row.urldiff) {
+      artistStr = `<a href='${row.urldiff}' target='_blank'>${data || row.urldiff}</a>`;
     }
     if (row.url_pack) {
       if (row.name_pack) {
@@ -188,11 +188,11 @@ const tableData = {
       if (data) {
         return `<a href='${row.url}' target='_blank'>${data}</a>`;
       } else {
-        return `<a href='${row.url_diff}'>DL</a>`;
+        return `<a href='${row.urldiff}'>DL</a>`;
       }
     } else {
       if (data) {
-        return `<a href='${row.url_diff}'>DL</a>`;
+        return `<a href='${row.urldiff}'>DL</a>`;
       } else {
         if (languagePrefix === "ko") {
           return "동봉";
