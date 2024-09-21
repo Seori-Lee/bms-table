@@ -160,6 +160,8 @@ const tableData = {
     let artistStr = "";
     if (row.url) {
       artistStr = `<a href='${row.url}' target='_blank'>${data || row.url}</a>`;
+    } else if (row.url_diff) {
+      artistStr = `<a href='${row.url_diff}' target='_blank'>${data || row.url}</a>`;
     }
     if (row.url_pack) {
       if (row.name_pack) {
@@ -169,8 +171,6 @@ const tableData = {
       }
     } else if (row.name_pack) {
       artistStr += `<br />(${row.name_pack})`;
-    } else {
-      artistStr = row.artist;
     }
     return artistStr;
   },
