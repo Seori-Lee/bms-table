@@ -158,9 +158,6 @@ const tableData = {
 
   tableArtist: function (data, type, row) {
     let artistStr = "";
-    if (row.url_diff) {
-      artistStr = `<a href='${row.url_diff}' target='_blank'>${data || row.url_diff}</a>`;
-    }
     if (row.url) {
       artistStr = `<a href='${row.url}' target='_blank'>${data || row.url}</a>`;
     }
@@ -172,6 +169,8 @@ const tableData = {
       }
     } else if (row.name_pack) {
       artistStr += `<br />(${row.name_pack})`;
+    } else {
+      artistStr += `<a href='${row.artist}' target='_blank'>${data || row.url_diff}</a>`;
     }
     return artistStr;
   },
