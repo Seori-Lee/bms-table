@@ -160,6 +160,8 @@ const tableData = {
     let artistStr = "";
     if (row.url) {
       artistStr = `<a href='${row.url}' target='_blank'>${data || row.url}</a>`;
+    } else if (row.urldiff) {
+      artistStr = `<a href='${row.urldiff}' target='_blank'>${data || row.urldiff}</a>`;
     }
     if (row.url_pack) {
       if (row.name_pack) {
@@ -175,7 +177,7 @@ const tableData = {
 
   tableDate: function (data) {
     if (data) {
-      return formatDateString(data);
+      return row.adddate;
     } else {
       return "";
     }
@@ -184,9 +186,9 @@ const tableData = {
   tableChart: function (data, type, row) {
     if (row.urldiff) {
       if (data) {
-        return `<a href='${row.urldiff}' target='_blank'>${data}</a>`;
-      } else {
         return `<a href='${row.urldiff}'>DL</a>`;
+      } else {
+        return `<a href='${row.urldiff}' target='_blank'>${data}</a>`;
       }
     } else {
       if (data) {
