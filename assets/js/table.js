@@ -180,13 +180,13 @@ const tableData = {
       return "";
     }
   },
-  
+
   tableChart: function (data, type, row) {
-    if (row.url) {
+    if (row.urldiff) {
       if (data) {
-        return `<a href='${row.url}' target='_blank'>${data}</a>`;
+        return `<a href='${row.urldiff}' target='_blank'>${data}</a>`;
       } else {
-        return `<a href='${row.url}'>DL</a>`;
+        return `<a href='${row.urldiff}'>DL</a>`;
       }
     } else {
       if (data) {
@@ -223,7 +223,15 @@ const DEFAULT_COLUMNS = [
     render: tableData.tableScore,
   },
   {
-    title: "Title",
+    title: "▶",
+    width: "1%",
+    data: "movie_link",
+    orderable: false,
+    searchable: false,
+    render: tableData.tableMovie,
+  },
+  {
+    title: "Title<br />(LR2IR)",
     width: "30%",
     data: "title",
     render: tableData.tableTitle,
@@ -234,17 +242,17 @@ const DEFAULT_COLUMNS = [
     data: "artist",
     render: tableData.tableArtist,
   },
-  /* {
+  {
     title: "DL",
     width: "1%",
-    data: "url_diff",
+    data: "urldiff",
     className: "text-nowrap",
     render: tableData.tableChart,
-  }, */
+  },
   {
     title: "Date",
     width: "1%",
-    data: "adddate",
+    data: "date",
     className: "text-nowrap",
     render: tableData.tableDate,
   },
