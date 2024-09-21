@@ -160,6 +160,8 @@ const tableData = {
     let artistStr = "";
     if (row.url) {
       artistStr = `<a href='${row.url}' target='_blank'>${data || row.url}</a>`;
+    } else {
+      artistStr = `<a href='${row.url_diff}' target='_blank'>${data || row.url_diff}</a>`;
     }
     if (row.url_pack) {
       if (row.name_pack) {
@@ -169,8 +171,6 @@ const tableData = {
       }
     } else if (row.name_pack) {
       artistStr += `<br />(${row.name_pack})`;
-    } else {
-      artistStr += row.artist;
     }
     return artistStr;
   },
@@ -184,13 +184,7 @@ const tableData = {
   },
 
   tableChart: function (data, type, row) {
-    if (row.url_diff) {
-      if (data) {
-        return `<a href='${row.url_diff}' target='_blank'>${data}</a>`;
-      } else {
-        return `<a href='${row.url_diff}'>DL</a>`;
-      }
-    } else if (row.url) {
+    if (row.url) {
       if (data) {
         return `<a href='${row.url}' target='_blank'>${data}</a>`;
       } else {
@@ -198,7 +192,7 @@ const tableData = {
       }
     } else {
       if (data) {
-        return data;
+        return `<a href='${row.url_diff}' target='_blank'>${data}</a>`;
       } else {
         if (languagePrefix === "ko") {
           return "동봉";
@@ -229,14 +223,6 @@ const DEFAULT_COLUMNS = [
     orderable: false,
     searchable: false,
     render: tableData.tableScore,
-  },
-  {
-    title: "▶",
-    width: "1%",
-    data: "movie_link",
-    orderable: false,
-    searchable: false,
-    render: tableData.tableMovie,
   },
   {
     title: "Title",
