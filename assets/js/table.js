@@ -157,6 +157,8 @@ const tableData = {
   },
 
   tableArtist: function (data, type, row) {
+    return row.artist;
+    /*
     let artistStr = "";
     if (row.url) {
       artistStr = `<a href='${row.url}' target='_blank'>${data || row.url}</a>`;
@@ -172,11 +174,11 @@ const tableData = {
     } else if (row.name_pack) {
       artistStr += `<br />(${row.name_pack})`;
     }
-    return artistStr;
+    return artistStr; */
   },
 
   tableDate: function (data) {
-    if (data) {
+    if (row.adddate) {
       return row.adddate;
     } else {
       return "";
@@ -191,8 +193,12 @@ const tableData = {
         return `<a href='${row.urldiff}' target='_blank'>${data}</a>`;
       }
     } else {
-      if (data) {
-        return data;
+      if (row.url) {
+        if (data) {
+        return `<a href='${row.url}'>DL</a>`;
+      } else {
+        return `<a href='${row.url}' target='_blank'>${data}</a>`;
+      }
       } else {
         if (languagePrefix === "ko") {
           return "동봉";
