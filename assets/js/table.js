@@ -157,13 +157,9 @@ const tableData = {
   },
 
   tableArtist: function (data, type, row) {
-    return row.artist;
-    /*
     let artistStr = "";
     if (row.url) {
       artistStr = `<a href='${row.url}' target='_blank'>${data || row.url}</a>`;
-    } else if (row.urldiff) {
-      artistStr = `<a href='${row.urldiff}' target='_blank'>${data || row.urldiff}</a>`;
     }
     if (row.url_pack) {
       if (row.name_pack) {
@@ -174,31 +170,27 @@ const tableData = {
     } else if (row.name_pack) {
       artistStr += `<br />(${row.name_pack})`;
     }
-    return artistStr; */
+    return artistStr;
   },
 
   tableDate: function (data) {
-    if (row.adddate) {
-      return row.adddate;
+    if (data) {
+      return formatDateString(data);
     } else {
       return "";
     }
   },
 
   tableChart: function (data, type, row) {
-    if (row.urldiff) {
+    if (row.url_diff) {
       if (data) {
-        return `<a href='${row.urldiff}'>DL</a>`;
+        return `<a href='${row.url_diff}' target='_blank'>${data}</a>`;
       } else {
-        return `<a href='${row.urldiff}' target='_blank'>${data}</a>`;
+        return `<a href='${row.url_diff}'>DL</a>`;
       }
     } else {
-      if (row.url) {
-        if (data) {
-        return `<a href='${row.url}'>DL</a>`;
-      } else {
-        return `<a href='${row.url}' target='_blank'>${data}</a>`;
-      }
+      if (data) {
+        return data;
       } else {
         if (languagePrefix === "ko") {
           return "동봉";
@@ -245,7 +237,7 @@ const DEFAULT_COLUMNS = [
     render: tableData.tableTitle,
   },
   {
-    title: "Artist",
+    title: "Artist<br />(BMS DL)",
     width: "25%",
     data: "artist",
     render: tableData.tableArtist,
@@ -253,7 +245,7 @@ const DEFAULT_COLUMNS = [
   {
     title: "DL",
     width: "1%",
-    data: "urldiff",
+    data: "name_diff",
     className: "text-nowrap",
     render: tableData.tableChart,
   },
