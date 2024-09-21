@@ -161,7 +161,7 @@ const tableData = {
     if (row.url) {
       artistStr = `<a href='${row.url}' target='_blank'>${data || row.url}</a>`;
     } else if (row.url_diff) {
-      artistStr = `<a href='${row.url_diff}' target='_blank'>${data || row.url}</a>`;
+      artistStr = `<a href='${row.url_diff}' target='_blank'>${data || row.url_diff}</a>`;
     }
     if (row.url_pack) {
       if (row.name_pack) {
