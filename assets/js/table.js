@@ -213,7 +213,7 @@ const DEFAULT_COLUMNS = [
     title: "Level",
     width: "1%",
     data: "level",
-    orderable: false,
+    // orderable: false,
     // type: "natural",
     render: tableData.tableLevel,
   },
