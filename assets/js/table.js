@@ -161,7 +161,7 @@ const tableData = {
     if (row.url) {
       artistStr = `<a href='${row.url}' target='_blank'>${data || row.url}</a>`;
     } else {
-      return row.artist;
+      artistStr = row.artist;
     }
     if (row.url_pack) {
       if (row.name_pack) {
