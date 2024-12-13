@@ -5,20 +5,21 @@ To view the table, please refer to [this link](https://seori-lee.github.io/bms-t
 
 ## Difficulty Index
 List of levels compared to normal/insane levels:
-> - sy0 : ~☆8
-> - sy1 : ☆9 ~ ☆10
-> - sy2 : ☆11 ~ ☆12
-> - sy3 : ★1 ~ ★2
-> - sy4 : ★3 ~ ★4
-> - sy5 : ★5 ~ ★6
-> - sy6 : ★7 ~ ★8
-> - sy7 : ★9 ~ ★10
-> - sy8 : ★11 ~ ★12
-> - sy9 : ★13 ~ ★14
-> - sy10 : ★15 ~ ★16
-> - sy11 : ★17 ~ ★18
-> - sy12 : ★19 ~ ★20
-> - sy12+ : overjoy
+> - sy0- : ~☆8
+> - sy0 : ☆9 ~ ☆10
+> - sy1 : ☆11 ~ ☆12
+> - sy2 : ★1 ~ ★2
+> - sy3 : ★3 ~ ★4
+> - sy4 : ★5 ~ ★6
+> - sy5 : ★7 ~ ★8
+> - sy6 : ★9 ~ ★10
+> - sy7 : ★11 ~ ★12
+> - sy8 : ★13 ~ ★14
+> - sy9 : ★15 ~ ★16
+> - sy10 : ★17 ~ ★18
+> - sy11 : ★19 ~ ★20
+> - sy12 : ★21 ~ ★22
+> - sy12+ : ★23 ~
 
 ## Credits
 Seori : chart designer, table manager
