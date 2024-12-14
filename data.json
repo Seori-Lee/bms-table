@@ -13,7 +13,7 @@
     "org_md5s": "",
     "org_md5": "",
     "comment": "PABAT! 2023 seasons",
-    "adddate": "2024-09-21"
+    "adddate": "2024.09.21"
   },
   {
     "md5": "0c3774d56d82e5cd06b27340b9e95e74",
@@ -29,7 +29,39 @@
     "org_md5s": "",
     "org_md5": "",
     "comment": "BOF:ET",
-    "adddate": "2024-09-21"
+    "adddate": "2024.09.21"
+  },
+  {
+    "md5": "8faf6ce54c597cc2edc2cd04c8ef0033",
+    "org_level": 7,
+    "title": "For Your Happy Tears [SP HYPER]",
+    "artist": "Sato obj. Seori",
+    "folder": "0-",
+    "level": "0-",
+    "lr2_bmsid": "",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=176&event=146",
+    "url_diff": "",
+    "name_diff": "",
+    "org_md5s": "",
+    "org_md5": "",
+    "comment": "BOF:TT",
+    "adddate": "2024.12.14"
+  },
+  {
+    "md5": "903a50e5a72e2c8f826facc616227837",
+    "org_level": 8,
+    "title": "嬉し涙が流れるように [SP HYPER]",
+    "artist": "Sato (feat. Sato Sasara) obj. Seori",
+    "folder": "0-",
+    "level": "0-",
+    "lr2_bmsid": "",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=343&event=146",
+    "url_diff": "",
+    "name_diff": "",
+    "org_md5s": "",
+    "org_md5": "",
+    "comment": "BOF:TT",
+    "adddate": "2024.12.14"
   },
   {
     "md5": "b709f5b65b8bd3ae45680e798f52c3ab",
@@ -45,7 +77,7 @@
     "org_md5s": "",
     "org_md5": "",
     "comment": "BOF:NT",
-    "adddate": "2024-09-21"
+    "adddate": "2024.09.21"
   },
   {
     "md5": "92b74741ee7c7d85bce0f185fb04546b",
@@ -61,7 +93,23 @@
     "org_md5s": "",
     "org_md5": "",
     "comment": "BOF:NT",
-    "adddate": "2024-09-21"
+    "adddate": "2024.09.21"
+  },
+  {
+    "md5": "09023cd3f96eb97a5f7c415deb69096b",
+    "org_level": 9,
+    "title": "Volcanic August [SP HYPER]",
+    "artist": "Ice respect for RJ mov.Siesphere / obj. Seori",
+    "folder": 0,
+    "level": 0,
+    "lr2_bmsid": "",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=264&event=146",
+    "url_diff": "",
+    "name_diff": "",
+    "org_md5s": "",
+    "org_md5": "",
+    "comment": "BOF:TT",
+    "adddate": "2024.12.14"
   },
   {
     "md5": "bc362c1ce49fa3ed5473e16b7d5e7bed",
@@ -77,7 +125,7 @@
     "org_md5s": "",
     "org_md5": "",
     "comment": "BOF:NT",
-    "adddate": "2024-09-21"
+    "adddate": "2024.09.21"
   },
   {
     "md5": "5a95b4919c2e9f09a5c7e17224d6b474",
@@ -93,7 +141,7 @@
     "org_md5s": "",
     "org_md5": "",
     "comment": "BOF:ET",
-    "adddate": "2024-09-21"
+    "adddate": "2024.09.21"
   },
   {
     "md5": "dbaec60e0dd92379e1f6821d835e2e7b",
@@ -109,7 +157,7 @@
     "org_md5s": "",
     "org_md5": "",
     "comment": "BOF:NT",
-    "adddate": "2024-09-21"
+    "adddate": "2024.09.21"
   },
   {
     "md5": "b1d9fa916ab18c1b17951ec7ed45e4ec",
@@ -125,7 +173,7 @@
     "org_md5s": "",
     "org_md5": "",
     "comment": "BOF:ET, sl0",
-    "adddate": "2024-09-21"
+    "adddate": "2024.09.21"
   },
   {
     "md5": "f9ac7bce2f56c7529a3bdb41df78405d",
@@ -141,7 +189,39 @@
     "org_md5s": "",
     "org_md5": "",
     "comment": "BOF:ET",
-    "adddate": "2024-09-21"
+    "adddate": "2024.09.21"
+  },
+  {
+    "md5": "91c304cc2047e7458c6d42e983a71df5",
+    "org_level": 11,
+    "title": "嬉し涙が流れるように -Vocalist-",
+    "artist": "Sato (feat. Sato Sasara) obj. Seori",
+    "folder": 1,
+    "level": 1,
+    "lr2_bmsid": "",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=343&event=146",
+    "url_diff": "",
+    "name_diff": "",
+    "org_md5s": "",
+    "org_md5": "",
+    "comment": "BOF:TT",
+    "adddate": "2024.12.14"
+  },
+  {
+    "md5": "4f2451b3b1c363bdd7f39c952b3e97c2",
+    "org_level": 12,
+    "title": "Comfort [SP ANOTHER]",
+    "artist": "Sato obj. Seori",
+    "folder": 1,
+    "level": 1,
+    "lr2_bmsid": "",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=273&event=146",
+    "url_diff": "",
+    "name_diff": "",
+    "org_md5s": "",
+    "org_md5": "",
+    "comment": "BOF:TT",
+    "adddate": "2024.12.14"
   },
   {
     "md5": "1859c5788a4113061f3e42bb18f39ae4",
@@ -157,7 +237,7 @@
     "org_md5s": "",
     "org_md5": "",
     "comment": "PABAT! 2023 seasons, Delay",
-    "adddate": "2024-09-21"
+    "adddate": "2024.09.21"
   },
   {
     "md5": "08493c442967db1f754dcebd15e85e7a",
@@ -173,12 +253,60 @@
     "org_md5s": "",
     "org_md5": "",
     "comment": "BOF:ET",
-    "adddate": "2024-09-21"
+    "adddate": "2024.09.21"
+  },
+  {
+    "md5": "57441e35ba76eb909c193b2c3f15feb1",
+    "org_level": 12,
+    "title": "嬉し涙が流れるように [SP ANOTHER]",
+    "artist": "Sato (feat. Sato Sasara) obj. Seori",
+    "folder": 2,
+    "level": 2,
+    "lr2_bmsid": "",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=343&event=146",
+    "url_diff": "",
+    "name_diff": "",
+    "org_md5s": "",
+    "org_md5": "",
+    "comment": "BOF:TT",
+    "adddate": "2024.12.14"
+  },
+  {
+    "md5": "39bfae0f4ad391f6d2aa3c652ca70ec3",
+    "org_level": 12,
+    "title": "FLVX [SP ANOTHER]",
+    "artist": "Spehs mov. Seori / obj. Seori",
+    "folder": 2,
+    "level": 2,
+    "lr2_bmsid": "",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=271&event=146",
+    "url_diff": "",
+    "name_diff": "",
+    "org_md5s": "",
+    "org_md5": "",
+    "comment": "BOF:TT",
+    "adddate": "2024.12.14"
+  },
+  {
+    "md5": "aa6aab446d90f2511c77161204ce327e",
+    "org_level": 12,
+    "title": "Volcanic August [SP ANOTHER]",
+    "artist": "Ice respect for RJ mov.Siesphere / obj. Seori",
+    "folder": 2,
+    "level": 2,
+    "lr2_bmsid": "",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=264&event=146",
+    "url_diff": "",
+    "name_diff": "",
+    "org_md5s": "",
+    "org_md5": "",
+    "comment": "BOF:TT",
+    "adddate": "2024.12.14"
   },
   {
     "md5": "07cc339d174056e25f9565d3cc47f0f1",
     "org_level": 12,
-    "title": "Absolute Zero  [Extra+]",
+    "title": "Absolute Zero [Extra+]",
     "artist": "Cashew / obj. Seori",
     "folder": 3,
     "level": 3,
@@ -189,12 +317,28 @@
     "org_md5s": "",
     "org_md5": "",
     "comment": "BOFU2016",
-    "adddate": "2024-09-21"
+    "adddate": "2024.09.21"
+  },
+  {
+    "md5": "9fbacb43ea2de555ddfba63eaa37fb55",
+    "org_level": 12,
+    "title": "For Your Happy Tears [SP INSANE]",
+    "artist": "Sato obj. Seori",
+    "folder": 3,
+    "level": 3,
+    "lr2_bmsid": "",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=176&event=146",
+    "url_diff": "",
+    "name_diff": "",
+    "org_md5s": "",
+    "org_md5": "",
+    "comment": "BOF:TT",
+    "adddate": "2024.12.14"
   },
   {
     "md5": "401cbe9fbe02887103d117a918cdc6e5",
     "org_level": 12,
-    "title": "Surge of Desire  [FULL CHARGE]",
+    "title": "Surge of Desire [FULL CHARGE]",
     "artist": "Integer obj. Seori",
     "folder": 4,
     "level": 4,
@@ -205,7 +349,7 @@
     "org_md5s": "",
     "org_md5": "",
     "comment": "PABAT! 2024 seasons",
-    "adddate": "2024-09-21"
+    "adddate": "2024.09.21"
   },
   {
     "md5": "315d0955ab975c99fd2a4cc628bea4bf",
@@ -221,7 +365,7 @@
     "org_md5s": "",
     "org_md5": "",
     "comment": "BOFXVI",
-    "adddate": "2024-09-21"
+    "adddate": "2024.09.21"
   },
   {
     "md5": "aab6c81d87b729182a8ab75f4df2628a",
@@ -237,7 +381,7 @@
     "org_md5s": "",
     "org_md5": "",
     "comment": "sl3",
-    "adddate": "2024-09-22"
+    "adddate": "2024.09.22"
   },
   {
     "md5": "9f5280dd36eb6585d6f7537f937d8f3e",
@@ -253,7 +397,7 @@
     "org_md5s": "",
     "org_md5": "",
     "comment": "BOF:ET",
-    "adddate": "2024-09-21"
+    "adddate": "2024.09.21"
   },
   {
     "md5": "3583fba6f4bee38668a941d6f102edd0",
@@ -269,7 +413,7 @@
     "org_md5s": "",
     "org_md5": "",
     "comment": "BOF:NT, sl6",
-    "adddate": "2024-09-21"
+    "adddate": "2024.09.21"
   },
   {
     "md5": "2895c10212c2681025c81c82b49d8fe7",
@@ -285,7 +429,7 @@
     "org_md5s": "",
     "org_md5": "",
     "comment": "BOFXVII",
-    "adddate": "2024-09-21"
+    "adddate": "2024.09.21"
   },
   {
     "md5": "af90ac373d694bc1cd3c09cc12b2cb83",
@@ -301,7 +445,7 @@
     "org_md5s": "",
     "org_md5": "",
     "comment": "無名戦2024",
-    "adddate": "2024-09-21"
+    "adddate": "2024.09.21"
   },
   {
     "md5": "1e1d0f670ebf19397ec2475884e2a79a",
@@ -317,7 +461,7 @@
     "org_md5s": "",
     "org_md5": "",
     "comment": "BOF:ET",
-    "adddate": "2024-09-21"
+    "adddate": "2024.09.21"
   },
   {
     "md5": "ca2f16162a9472bed501b019dd77ccc0",
@@ -333,7 +477,7 @@
     "org_md5s": "",
     "org_md5": "",
     "comment": "BOF2010",
-    "adddate": "2024-09-22"
+    "adddate": "2024.09.22"
   },
   {
     "md5": "4eaf79e8e6b9e3c3fec6f8a7776986a4",
@@ -349,7 +493,7 @@
     "org_md5s": "",
     "org_md5": "",
     "comment": "BOF:NT",
-    "adddate": "2024-09-21"
+    "adddate": "2024.09.21"
   },
   {
     "md5": "624e3c1e98e5fdd5fff120a59e87c710",
@@ -365,7 +509,23 @@
     "org_md5s": "",
     "org_md5": "",
     "comment": "BOF:ET",
-    "adddate": "2024-09-21"
+    "adddate": "2024.09.21"
+  },
+  {
+    "md5": "c37195dfa63b008b811caf067ad4abd2",
+    "org_level": 12,
+    "title": "Volcanic August [SP INSANE]",
+    "artist": "Ice respect for RJ mov.Siesphere / obj. Seori",
+    "folder": 8,
+    "level": 8,
+    "lr2_bmsid": "",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=264&event=146",
+    "url_diff": "",
+    "name_diff": "",
+    "org_md5s": "",
+    "org_md5": "",
+    "comment": "BOF:TT",
+    "adddate": "2024.12.14"
   },
   {
     "md5": 0,
@@ -384,20 +544,20 @@
     "adddate": "2024-09-22"
   },
   {
-    "md5": 0,
-    "org_level": "",
-    "title": "",
-    "artist": "",
+    "md5": "8936d93faf6db2d86b244068d8cf0d3b",
+    "org_level": "12",
+    "title": "Volcanic August [SP HEAT WAVE]",
+    "artist": "Ice respect for RJ mov.Siesphere / obj. Seori",
     "folder": 10,
     "level": 10,
     "lr2_bmsid": "",
-    "url": "",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=264&event=146",
     "url_diff": "",
     "name_diff": "",
     "org_md5s": "",
     "org_md5": "",
-    "comment": "",
-    "adddate": "2024-09-22"
+    "comment": "BOF:TT",
+    "adddate": "2024.12.14"
   },
   {
     "md5": "d370debc492f547f0a3dbeff48f033e3",
@@ -413,7 +573,7 @@
     "org_md5s": "",
     "org_md5": "",
     "comment": "BOF:NT",
-    "adddate": "2024-09-21"
+    "adddate": "2024.09.21"
   },
   {
     "md5": "05146fb0431e882f00c944c555e28c90",
@@ -429,23 +589,23 @@
     "org_md5s": "",
     "org_md5": "",
     "comment": "-",
-    "adddate": "2024-09-22"
+    "adddate": "2024.09.22"
   },
   {
-    "md5": 0,
-    "org_level": "",
-    "title": "",
-    "artist": "",
+    "md5": "4264b89d687b783a7b5d196346d465b0",
+    "org_level": "12",
+    "title": "PHYSALIS [SP Rebirth++]",
+    "artist": "TAG bms.Spehs & Hihumi // movie.ShakeJ // obj. Seori",
     "folder": 12,
     "level": 12,
     "lr2_bmsid": "",
-    "url": "",
-    "url_diff": "",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=125&event=146",
+    "url_diff": "https://stellabms.xyz/upload/4444",
     "name_diff": "",
     "org_md5s": "",
     "org_md5": "",
-    "comment": "",
-    "adddate": "2024-09-22"
+    "comment": "BOF:TT",
+    "adddate": "2024.12.14"
   },
   {
     "md5": "1f0f14b99c1e0540532942a44f79fe70",
@@ -461,7 +621,7 @@
     "org_md5s": "",
     "org_md5": "",
     "comment": "BOF:NT, Key sound arranged",
-    "adddate": "2024-09-22"
+    "adddate": "2024.09.22"
   },
   {
     "md5": "2629739d043611c133aa1e16c7bbd31d",
@@ -477,7 +637,7 @@
     "org_md5s": "",
     "org_md5": "",
     "comment": "-",
-    "adddate": "2024-09-22"
+    "adddate": "2024.09.22"
   },
   {
     "md5": "2d2752c0fd747606a9a35dd8f3af5a23",
@@ -493,6 +653,22 @@
     "org_md5s": "",
     "org_md5": "",
     "comment": "-",
-    "adddate": "2024-10-15"
+    "adddate": "2024.10.15"
+  },
+  {
+    "md5": "ad2c741608c55da49d0bf513e8a40a70",
+    "org_level": 0,
+    "title": "BE-MUSiC⇒STORY -tkqn14's Prophecy-",
+    "artist": "TRiNiTUM(tkqn14×NIKANON) feat.LanuBis movie.Siesphere // Illust.はしたかさん // obj. Seori",
+    "folder": "12+",
+    "level": "12+",
+    "lr2_bmsid": "",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=266&event=146",
+    "url_diff": "",
+    "name_diff": "",
+    "org_md5s": "",
+    "org_md5": "",
+    "comment": "BOF:TT",
+    "adddate": "2024.12.14"
   }
 ]
