@@ -12,7 +12,7 @@
     "name_diff": "",
     "org_md5s": "",
     "org_md5": "",
-    "comment": "PABAT! 2023 seasons",
+    "comment": "PABAT! 2023",
     "adddate": "20240921"
   },
   {
@@ -236,7 +236,7 @@
     "name_diff": "",
     "org_md5s": "",
     "org_md5": "",
-    "comment": "PABAT! 2023 seasons, Delay",
+    "comment": "PABAT! 2023, Delay",
     "adddate": "20240921"
   },
   {
@@ -348,7 +348,7 @@
     "name_diff": "",
     "org_md5s": "",
     "org_md5": "",
-    "comment": "PABAT! 2024 seasons",
+    "comment": "PABAT! 2024",
     "adddate": "20240921"
   },
   {
@@ -464,22 +464,6 @@
     "adddate": "20240921"
   },
   {
-    "md5": "ca2f16162a9472bed501b019dd77ccc0",
-    "org_level": 12,
-    "title": "CROSSFIRE [生死流転斬]",
-    "artist": "BOKKEN FUCHSIA / obj:妖夢 BOKKEN BLUE",
-    "folder": 7,
-    "level": 7,
-    "lr2_bmsid": "",
-    "url": "http://uploader.bms.ms/data/bof2010sr10xl2g/mirror/crossfire_ogg.zip",
-    "url_diff": "https://stellabms.xyz/upload/4312",
-    "name_diff": "",
-    "org_md5s": "",
-    "org_md5": "",
-    "comment": "BOF2010",
-    "adddate": "20240922"
-  },
-  {
     "md5": "4eaf79e8e6b9e3c3fec6f8a7776986a4",
     "org_level": 12,
     "title": "Tekhfill [SP ANOTHER]",
@@ -494,6 +478,22 @@
     "org_md5": "",
     "comment": "BOF:NT",
     "adddate": "20240921"
+  },
+  {
+    "md5": "762eeee69a99bbdaaef37c1113ca30c6",
+    "org_level": 12,
+    "title": "Deifixa [SP Rebirth++]",
+    "artist": "Reku Mochizuki obj. Seori",
+    "folder": 7,
+    "level": 7,
+    "lr2_bmsid": "",
+    "url": "https://k-bms.com/party_pabat/party.jsp?board_num=25&num=1&order=reg&odtype=a",
+    "url_diff": "https://stellabms.xyz/upload/5232",
+    "name_diff": "",
+    "org_md5s": "",
+    "org_md5": "",
+    "comment": "PABAT! 2025, ▼12",
+    "adddate": "20250501"
   },
   {
     "md5": "624e3c1e98e5fdd5fff120a59e87c710",
@@ -526,6 +526,22 @@
     "org_md5": "",
     "comment": "BOF:TT",
     "adddate": "20241214"
+  },
+    {
+    "md5": "ca2f16162a9472bed501b019dd77ccc0",
+    "org_level": 12,
+    "title": "CROSSFIRE [生死流転斬]",
+    "artist": "BOKKEN FUCHSIA / obj:妖夢 BOKKEN BLUE",
+    "folder": 8,
+    "level": 8,
+    "lr2_bmsid": "",
+    "url": "http://uploader.bms.ms/data/bof2010sr10xl2g/mirror/crossfire_ogg.zip",
+    "url_diff": "https://stellabms.xyz/upload/4312",
+    "name_diff": "",
+    "org_md5s": "",
+    "org_md5": "",
+    "comment": "BOF2010",
+    "adddate": "20240922"
   },
   {
     "md5": "cfbab571601dc4e402a5c627fd32e0d5",
