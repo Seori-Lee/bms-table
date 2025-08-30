@@ -15,11 +15,11 @@ List of levels compared to normal/insane levels:
 > - sy6 : ★9 ~ ★10
 > - sy7 : ★11 ~ ★12
 > - sy8 : ★13 ~ ★14
-> - sy9 : ★15 ~ ★16
-> - sy10 : ★17 ~ ★18
-> - sy11 : ★19 ~ ★20
-> - sy12 : ★21 ~ ★22
-> - sy12+ : ★23 ~
+> - sy9 : ★15 ~ ★17
+> - sy10 : ★18 ~ ★20
+> - sy11 : ★21 ~ ★22
+> - sy12 : ★23 ~ ★24
+> - sy12+ : ★25 ~
 
 ## Credits
 Seori : chart designer, table manager
