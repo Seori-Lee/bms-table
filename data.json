@@ -400,6 +400,22 @@
     "adddate": "20240921"
   },
   {
+    "md5": "2733fe5fc15ae6b385fa41c643b9c43c",
+    "org_level": 12,
+    "title": "Backpacker(remix) [/]",
+    "artist": "RearDawn remixed by LU obj. SECTION",
+    "folder": 5,
+    "level": 5,
+    "lr2_bmsid": "",
+    "url": "https://docs.google.com/uc?export=download&id=1CM1RNI6Ufoiq5BKXT6tSyufegCmECobD",
+    "url_diff": "https://darksabun.club/event/mf2/venue/",
+    "name_diff": "",
+    "org_md5s": "",
+    "org_md5": "",
+    "comment": "so3",
+    "adddate": 20250831
+  },
+  {
     "md5": "3583fba6f4bee38668a941d6f102edd0",
     "org_level": 12,
     "title": "《Ж》 [SP INSANE]",
@@ -510,22 +526,6 @@
     "org_md5": "",
     "comment": "PABAT! 2025, ▼12",
     "adddate": "20250501"
-  },
-  {
-    "md5": "2733fe5fc15ae6b385fa41c643b9c43c",
-    "org_level": 12,
-    "title": "Backpacker(remix) [/]",
-    "artist": "RearDawn remixed by LU obj. SECTION",
-    "folder": 7,
-    "level": 7,
-    "lr2_bmsid": "",
-    "url": "https://docs.google.com/uc?export=download&id=1CM1RNI6Ufoiq5BKXT6tSyufegCmECobD",
-    "url_diff": "https://darksabun.club/event/mf2/venue/",
-    "name_diff": "",
-    "org_md5s": "",
-    "org_md5": "",
-    "comment": "-",
-    "adddate": 20250831
   },
   {
     "md5": "624e3c1e98e5fdd5fff120a59e87c710",
@@ -816,4 +816,5 @@
     "adddate": "20241214"
   }
 ]
+
 
