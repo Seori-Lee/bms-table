@@ -64,6 +64,22 @@
     "adddate": "20241214"
   },
   {
+    "md5": "c7c8779420fdc4a98d0727d74656266b",
+    "org_level": 8,
+    "title": "XVI [SP HYPER]",
+    "artist": "Seori (Rain's Avenue)",
+    "folder": "0-",
+    "level": "0-",
+    "lr2_bmsid": "",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=74&event=149",
+    "url_diff": "",
+    "name_diff": "",
+    "org_md5s": "",
+    "org_md5": "",
+    "comment": "BOF21",
+    "adddate": "20260123"
+  },
+  {
     "md5": "b709f5b65b8bd3ae45680e798f52c3ab",
     "org_level": 10,
     "title": "Comet Rush [SP HYPER]",
@@ -110,6 +126,22 @@
     "org_md5": "",
     "comment": "BOF:TT",
     "adddate": "20241214"
+  },
+  {
+    "md5": "815fcaf7c15fdee37e51b5ca7d3482ae",
+    "org_level": 10,
+    "title": "Punishment [SP ANOTHER]",
+    "artist": "Seori (Rain's Avenue)",
+    "folder": 0,
+    "level": 0,
+    "lr2_bmsid": "",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=14&event=147",
+    "url_diff": "",
+    "name_diff": "",
+    "org_md5s": "",
+    "org_md5": "",
+    "comment": "無名戦2025",
+    "adddate": "20260123"
   },
   {
     "md5": "bc362c1ce49fa3ed5473e16b7d5e7bed",
@@ -222,6 +254,38 @@
     "org_md5": "",
     "comment": "BOF:TT",
     "adddate": "20241214"
+  },
+  {
+    "md5": "94d982f41e5230ecbebda267b53b837e",
+    "org_level": 11,
+    "title": "Wastelands of Heaven [SP ANOTHER]",
+    "artist": "Seori (Rain's Avenue)",
+    "folder": 1,
+    "level": 1,
+    "lr2_bmsid": "",
+    "url": "https://venue.bmssearch.net/letsbmsedit4/7",
+    "url_diff": "",
+    "name_diff": "",
+    "org_md5s": "",
+    "org_md5": "",
+    "comment": "Let's BMS Edit! 4",
+    "adddate": "20260123"
+  },
+  {
+    "md5": "c7c8779420fdc4a98d0727d74656266b",
+    "org_level": 11,
+    "title": "XVI [SP ANOTHER]",
+    "artist": "Seori (Rain's Avenue)",
+    "folder": "1",
+    "level": "1",
+    "lr2_bmsid": "",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=74&event=149",
+    "url_diff": "",
+    "name_diff": "",
+    "org_md5s": "",
+    "org_md5": "",
+    "comment": "BOF21",
+    "adddate": "20260123"
   },
   {
     "md5": "1859c5788a4113061f3e42bb18f39ae4",
@@ -382,6 +446,38 @@
     "org_md5": "",
     "comment": "sl3",
     "adddate": "20240922"
+  },
+  {
+    "md5": "284a811f86f96421fa53a4d3dbf6aa49",
+    "org_level": 12,
+    "title": "Punishment [SP INSANE]",
+    "artist": "Seori (Rain's Avenue)",
+    "folder": 4,
+    "level": 4,
+    "lr2_bmsid": "",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=14&event=147",
+    "url_diff": "",
+    "name_diff": "",
+    "org_md5s": "",
+    "org_md5": "",
+    "comment": "無名戦2025",
+    "adddate": "20260123"
+  },
+  {
+    "md5": "8051b5e9cf0b97f5a78da45fcffad9d1",
+    "org_level": 12,
+    "title": "XVI [SP INSANE]",
+    "artist": "Seori (Rain's Avenue)",
+    "folder": "4",
+    "level": "4",
+    "lr2_bmsid": "",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=74&event=149",
+    "url_diff": "",
+    "name_diff": "",
+    "org_md5s": "",
+    "org_md5": "",
+    "comment": "BOF21",
+    "adddate": "20260123"
   },
   {
     "md5": "9f5280dd36eb6585d6f7537f937d8f3e",
@@ -816,6 +912,7 @@
     "adddate": "20241214"
   }
 ]
+
 
 
 
