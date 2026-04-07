@@ -62,10 +62,10 @@ function makeBMSTable() {
 // Changelog
 function makeChangelog(table) {
   const data = table.ajax.json();
-  data.sort((a, b) => new Date(b.adddate) - new Date(a.adddate));
+  data.sort((a, b) => new Date(b.date) - new Date(a.date));
   const changelogData = data
     .map(function (song) {
-      const dateStr = formatDateString(song.adddate);
+      const dateStr = formatDateString(song.date);
       return `(${dateStr}) ${mark}${song.level} ${song.title}`;
     })
     .join("\n");
